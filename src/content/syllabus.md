@@ -25,7 +25,9 @@ I will make exceptions to the official prerequisite if you have an interest in t
 
 We do not assume any particular background or experience in other areas beyond what would be the minimal expectations for a high school graduate, but do expect students in the class to be comfortable reading texts from a variety of perspectives and not afraid of reading a philosophical treatise, legal document, or opinionated blog post. Students should be open minded and willing to engage with difficult questions in a flexible and tolerant way.
 
-# Instructor
+# Course Team
+
+### Lead 
 
 [David Evans](https://www.cs.virginia.edu/evans)
 
@@ -39,6 +41,13 @@ usually respond to emails quickly and reliably (at least I try to!), so if you d
   everyone. If you would like to schedule a meeting at another time, use
   [_https://davidevans.youcanbook.me/_](https://davidevans.youcanbook.me/)
   to schedule a time but if you can't find anything that works there, email me your scheduling constraints.
+
+### Assistants
+
+[Bijan Boroumand](TODO)
+[Clara Gimmelbein](TOOD)
+[Mughesh Kumar](TODO)
+
 
 # Student Expectations and Assessments
 
