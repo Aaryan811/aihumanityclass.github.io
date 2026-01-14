@@ -47,68 +47,68 @@ slug = "schedule"
     <tr>
       <td>Tuesday 20 Jan</td>
       <td>1</td>
-      <td>6</td>
-      <td>11</td>
+      <td>5</td>
+      <td>9</td>
     </tr>
     <tr>
       <td>Thursday 22 Jan</td>
       <td>2</td>
-      <td>7</td>
-      <td>12</td>
+      <td>6</td>
+      <td>10</td>
     </tr>
     <tr>
       <td>Tuesday 27 Jan</td>
       <td>3</td>
-      <td>8</td>
-      <td>13</td>
+      <td>7</td>
+      <td>11</td>
     </tr>
     <tr>
       <td>Thursday 29 Jan</td>
       <td>4</td>
-      <td>9</td>
-      <td>14</td>
+      <td>8</td>
+      <td>12</td>
     </tr>
     <tr>
       <td>Tuesday 3 Feb</td>
       <td>5</td>
-      <td>10</td>
-      <td>15</td>
+      <td>9</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>Thursday 5 Feb</td>
       <td>6</td>
-      <td>11</td>
-      <td>1</td>
+      <td>10</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Tuesday 10 Feb</td>
       <td>7</td>
-      <td>12</td>
-      <td>2</td>
+      <td>11</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>Thursday 12 Feb</td>
       <td>8</td>
-      <td>13</td>
-      <td>3</td>
+      <td>12</td>
+      <td>4</td>
     </tr>
     <tr>
       <td>Tuesday 17 Feb</td>
       <td>9</td>
-      <td>14</td>
-      <td>4</td>
+      <td>1</td>
+      <td>5</td>
     </tr>
     <tr>
       <td>Thursday 19 Feb</td>
       <td>10</td>
-      <td>15</td>
-      <td>5</td>
+      <td>2</td>
+      <td>6</td>
     </tr>
     <tr>
       <td>Tuesday 24 Feb</td>
       <td>11</td>
-      <td>1</td>
-      <td>6</td>
+      <td>3</td>
+      <td>7</td>
     </tr>
     <tr>
       <td>Thursday 26 Feb</td>
@@ -121,38 +121,38 @@ slug = "schedule"
     <tr>
       <td>Tuesday 10 Mar</td>
       <td>12</td>
-      <td>2</td>
-      <td>7</td>
-    </tr>
-    <tr>
-      <td>Thursday 12 Mar</td>
-      <td>13</td>
-      <td>3</td>
+      <td>4</td>
       <td>8</td>
     </tr>
     <tr>
-      <td>Tuesday 17 Mar</td>
-      <td>14</td>
-      <td>4</td>
+      <td>Thursday 12 Mar</td>
+      <td>1</td>
+      <td>5</td>
       <td>9</td>
     </tr>
     <tr>
-      <td>Thursday 19 Mar</td>
-      <td>15</td>
-      <td>5</td>
+      <td>Tuesday 17 Mar</td>
+      <td>2</td>
+      <td>6</td>
       <td>10</td>
     </tr>
     <tr>
-      <td>Tuesday 24 Mar</td>
-      <td>1</td>
-      <td>6</td>
+      <td>Thursday 19 Mar</td>
+      <td>3</td>
+      <td>7</td>
       <td>11</td>
     </tr>
     <tr>
-      <td>Thursday 26 Mar</td>
-      <td>2</td>
-      <td>7</td>
+      <td>Tuesday 24 Mar</td>
+      <td>4</td>
+      <td>8</td>
       <td>12</td>
+    </tr>
+    <tr>
+      <td>Thursday 26 Mar</td>
+      <td>5</td>
+      <td>9</td>
+      <td>1</td>
     </tr>
     <tr>
       <td>Tuesday 31 Mar</td>
@@ -164,21 +164,21 @@ slug = "schedule"
     </tr>
     <tr>
       <td>Tuesday 7 Apr</td>
-      <td>3</td>
-      <td>8</td>
-      <td>13</td>
+      <td>6</td>
+      <td>10</td>
+      <td>2</td>
     </tr>
     <tr>
       <td>Thursday 9 Apr</td>
-      <td>4</td>
-      <td>9</td>
-      <td>14</td>
+      <td>7</td>
+      <td>11</td>
+      <td>3</td>
     </tr>
     <tr>
       <td>Tuesday 14 Apr</td>
-      <td>5</td>
-      <td>10</td>
-      <td>15</td>
+      <td>8</td>
+      <td>12</td>
+      <td>4</td>
     </tr>
     <tr style="background-color: #faf3d1ff;">
       <td>Thursday 16 Apr</td>
