@@ -1,6 +1,6 @@
 +++
 date = "20 Jan 2026"
-draft = true
+draft = false
 title = "Class 3: Machines of Loving Grace"
 author = "Team 9"
 +++
