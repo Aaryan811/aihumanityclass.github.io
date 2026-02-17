@@ -111,25 +111,25 @@ slug = "schedule"
   <tbody>
 
   <tr>
-  <td>Tuesday 17 Feb</td>
+  <td>Tuesday 17 Feb (Class 10)</td>
   <td>8</td>
   <td>12</td>
   <td>4</td>
   </tr>
   <tr>
-  <td>Thursday 19 Feb</td>
+  <td>Thursday 19 Feb (Class 11)</td>
   <td>9</td>
   <td>1</td>
   <td>5</td>
   </tr>
   <tr>
-  <td>Tuesday 24 Feb</td>
+  <td>Tuesday 24 Feb (Class 12)</td>
   <td>10</td>
   <td>2</td>
   <td>6</td>
   </tr>
   <tr>
-  <td>Thursday 26 Feb</td>
+  <td>Thursday 26 Feb (Class 13)</td>
   <td>11</td>
   <td>3</td>
   <td>7</td>
